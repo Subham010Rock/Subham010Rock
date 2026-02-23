@@ -22,8 +22,8 @@ I'm Currently working on LLM related projects, solving dsa problems.<br>I'm look
 
 [![](https://komarev.com/ghpvc/?username=Subham010Rock&color=blue)](https://github.com/Subham010Rock)
 
-## 💰 You can help me by Donating
+<!-- ## 💰 You can help me by Donating
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/7485subh)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/7485subh) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
